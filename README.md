@@ -1,7 +1,6 @@
 ![Header](https://raw.githubusercontent.com/CraigCraig/CraigCraig/main/github-header-image.png)
 
-
-<div align="center">
+<div align="center"> 
 
 ![](https://img.shields.io/badge/Windows-informational?style=flat&logo=windows&logoColor=white&color=2571ff)
 ![](https://img.shields.io/badge/Debian-informational?style=flat&logo=debian&logoColor=white&color=2571ff)
@@ -13,17 +12,27 @@
 ![](https://img.shields.io/badge/VisualStudio%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2571ff)
 ![](https://img.shields.io/badge/CoPilot-informational?style=flat&logo=github&logoColor=white&color=2571ff)
 
-CEO & Founder at <a href="https://wanderingcheetah.com">Wandering Cheetah</a>
+<h3>CEO & Founder at <a href="https://wanderingcheetah.com">Wandering Cheetah</a></h3><br>
 
-![Craig's Stats](https://github-readme-stats.vercel.app/api?username=CraigCraig&theme=transparent&show_icons=true&show_owner=false)
+<img src="https://craigcraig.vercel.app/api?username=CraigCraig&theme=transparent&show_icons=true&show_owner=false&include_all_commits=true&custom_title=My%20Stats&border=false&disable_animations=true&hide_border=true" />
+<img align="top" src="https://craigcraig.vercel.app/api/top-langs/?username=CraigCraig&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent&langs_count=10&custom_title=My%20Languages&disable_animations=true&hide_border=true" />
 
-🚧
-[WinToolbox](http://github.com/CraigCraig/WinToolbox) - 
-[CheeseyUI](http://github.com/CraigCraig/CheeseyUI) - 
-[CheeseyUtils](http://github.com/CraigCraig/CheeseyUtils)
-🚧
-<br>
-[RiseToRuins ModLoader](http://github.com/CraigCraig/RiseToRuinsModLoader)
+<h3>My Projects</h3><br>
+
+<a href="https://github.com/CraigCraig/WinToolbox">
+<img src="https://craigcraig.vercel.app/api/pin/?username=CraigCraig&repo=WinToolbox&theme=transparent"></img><br>
+</a>
+<a href="https://github.com/CraigCraig/CheeseyUI">
+<img src="https://craigcraig.vercel.app/api/pin?username=CraigCraig&repo=CheeseyUI&theme=transparent"></img>
+</a>
+<a href="https://github.com/CraigCraig/CheeseyUtils">
+<img src="https://craigcraig.vercel.app/api/pin/?username=CraigCraig&repo=CheeseyUtils&theme=transparent"></img>
+</a><br>
+<a href="https://github.com/CraigCraig/RiseToRuinsModLoader">
+<img src="https://craigcraig.vercel.app/api/pin/?username=CraigCraig&repo=RiseToRuinsModLoader&theme=transparent"></img>
+</a><br>
+
+![Test](test.svg?color=red)
 
 </div>
 
@@ -38,3 +47,5 @@ I tend to use insider/nightly builds!
 - I liked Penguins before I knew about Linux.<br>
 - I'll drink cold coffee.<br>
 - I know not to run `rm -rf /` as root.
+
+</div>
