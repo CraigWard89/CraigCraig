@@ -32,8 +32,6 @@
 <img src="https://craigcraig.vercel.app/api/pin/?username=CraigCraig&repo=RiseToRuinsModLoader&theme=transparent"></img>
 </a><br>
 
-![Test](test.svg?color=red)
-
 </div>
 
 ## ❔ About Me
