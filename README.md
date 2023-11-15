@@ -4,7 +4,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=CraigCraig&color=2571ff)
 ![GitHub Followers](https://img.shields.io/github/followers/CraigCraig?style=flat&logo=github&logoColor=white&color=2571ff)
 ![Last Commit](https://img.shields.io/github/last-commit/CraigCraig/CraigCraig?style=flat&logo=github&logoColor=white&color=2571ff)<br>
-<a href="https://www.paypal.me/CCraig89">
+<a href="https://www.paypal.me/craigcraig89">
 ![PayPal](https://img.shields.io/badge/PayPal-2571ff?style=flat&logo=paypal&logoColor=white&color=orange)
 </a>
 <a href="https://www.patreon.com/CraigCraig">
