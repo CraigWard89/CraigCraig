@@ -1,21 +1,21 @@
 <div align="center">
 
 ![Header](https://raw.githubusercontent.com/CraigCraig/CraigCraig/main/github-header-image.png)
-![Profile Views](https://komarev.com/ghpvc/?username=CraigCraig&color=2571ff)
-![GitHub Followers](https://img.shields.io/github/followers/CraigCraig?style=flat&logo=github&logoColor=white&color=2571ff)
-![Last Commit](https://img.shields.io/github/last-commit/CraigCraig/CraigCraig?style=flat&logo=github&logoColor=white&color=2571ff)<br>
+![Profile Views](https://komarev.com/ghpvc/?username=CraigCraig&color=2571ff&style=flat-square&label=Profile%20Views)
 <a href="https://www.paypal.me/craigcraig89">
 ![PayPal](https://img.shields.io/badge/PayPal-2571ff?style=flat&logo=paypal&logoColor=white&color=orange)
 </a>
 <a href="https://www.patreon.com/CraigCraig">
 ![Patreon](https://img.shields.io/badge/Patreon-2571ff?style=flat&logo=patreon&logoColor=white&color=orange)
 </a>
+<a href="mailto:caig@craig.se">
 ![Email](https://img.shields.io/badge/Email-2571ff?style=flat&logo=gmail&logoColor=white&color=red)
+</a>
 
 <h2>CEO & Founder at <a href="https://wanderingcheetah.com">Wandering Cheetah</a></h2>
 
 <pre>
-I have a passion for exploring various aspects of technology and programming
+I have a passion for exploring various aspects of technology and programming.
 I like to challenge myself by creating different kinds of projects, ranging from simple scripts to complex system operations.
 I enjoy learning new skills and exploring new things.
 I tend to use insider/nightly builds!
@@ -42,7 +42,7 @@ I tend to use insider/nightly builds!
 <img src="https://img.shields.io/badge/JSON-informational?style=flat&logo=json&logoColor=white&color=2571ff" alt="JSON badge">
 
 <img src="https://craigcraig.vercel.app/api?username=CraigCraig&theme=transparent&show_icons=true&include_all_commits=true&custom_title=My%20Stats&border=false&disable_animations=true&hide_border=true" />
-<img src="https://craigcraig.vercel.app/api/top-langs/?username=CraigCraig&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent&langs_count=10&custom_title=My%20Languages&disable_animations=true&hide_border=true" />
+<img src="https://craigcraig.vercel.app/api/top-langs/?username=CraigCraig&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent&langs_count=8&custom_title=Project%20Languages&hide_border=true&exclude=github-readme-stats" />
 
 <h2>My Projects</h2>
 <a href="https://github.com/CraigCraig/WinToolbox">
@@ -61,8 +61,14 @@ I tend to use insider/nightly builds!
 </div>
 
 ### Random Facts
-- I liked Penguins before I knew about Linux.<br>
-- I'll drink cold coffee.<br>
+- I liked Penguins before I knew about Linux.
+- I'll drink cold coffee.
 - I know not to run `rm -rf /` as root.
+
+### Useful Information and Projects
+
+I use and self host <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a> to generate the stats on my readme.
+
+For a more complete list of projects I think are mention worthy, check out what I have <a href="https://github.com/CraigCraig?tab=stars">starred</a>.
 
 </div>
