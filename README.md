@@ -60,6 +60,14 @@ I tend to use insider/nightly builds!
 
 </div>
 
+### General Information
+<p>
+I casually focus on my open source projects, as I also have closed source projects that I work on.<br>
+I'm considering starting a few more open source projects.<br>
+I spend a good amount of time working on my VPS, as I self host a lot of services.<br>
+I use my own GitHub Actions, Workflows, and Runners to automate a lot of my projects.<br>
+</p>
+
 ### Random Facts
 - I liked Penguins before I knew about Linux.
 - I'll drink cold coffee.
