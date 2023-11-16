@@ -41,8 +41,8 @@ I'm a self-taught programmer, and I'm always looking for new ways to improve my 
 <img src="https://img.shields.io/badge/Markdown-informational?style=flat&logo=markdown&logoColor=white&color=2571ff" alt="Markdown badge">
 <img src="https://img.shields.io/badge/JSON-informational?style=flat&logo=json&logoColor=white&color=2571ff" alt="JSON badge">
 
-<img src="https://craigcraig.vercel.app/api?username=CraigCraig&theme=transparent&show_icons=true&include_all_commits=true&custom_title=My%20Stats&border=false&disable_animations=true&hide_border=true" />
-<img src="https://craigcraig.vercel.app/api/top-langs/?username=CraigCraig&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent&langs_count=8&custom_title=Project%20Languages&hide_border=true&exclude=github-readme-stats" />
+<img src="https://craigcraig.vercel.app/api?username=CraigCraig&theme=transparent&show_icons=true&include_all_commits=true&custom_title=My%20Stats&border=false&disable_animations=true&hide_border=true&cache_seconds=300" />
+<img src="https://craigcraig.vercel.app/api/top-langs/?username=CraigCraig&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent&langs_count=8&custom_title=Project%20Languages&hide_border=true&exclude=github-readme-stats&cache_seconds=300" />
 
 <h2>My Projects</h2>
 <a href="https://github.com/CraigCraig/WinToolbox">
