@@ -14,12 +14,12 @@
 
 <h2>CEO & Founder at <a href="https://wanderingcheetah.com">Wandering Cheetah</a></h2>
 
-<pre>
-I have a passion for exploring various aspects of technology and programming.
-I like to challenge myself by creating different kinds of projects, ranging from simple scripts to complex system operations.
-I enjoy learning new skills and exploring new things.
-I tend to use insider/nightly builds!
-</pre>
+<p>
+I'm constantly exploring new aspects of programming and pushing my limits by creating a diverse range of projects.<br>
+From simple scripts to complex system operations, I'm always up for a challenge.<br>
+I'm passionate about learning new skills and expanding my knowledge in the field.<br>
+I'm a self-taught programmer, and I'm always looking for new ways to improve my skills.<br>
+</p>
 <hr>
 
 <img src="https://img.shields.io/badge/Windows-informational?style=flat&logo=windows&logoColor=white&color=2571ff" alt="Windows badge">
@@ -72,6 +72,7 @@ I use my own GitHub Actions, Workflows, and Runners to automate a lot of my proj
 - I liked Penguins before I knew about Linux.
 - I'll drink cold coffee.
 - I know not to run `rm -rf /` as root.
+- I tend to use insider/nightly builds.
 
 ### Useful Information and Projects
 
