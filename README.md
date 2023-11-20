@@ -71,10 +71,10 @@ I use my own GitHub Actions, Workflows, and Runners to automate a lot of my proj
 - I tend to use insider/nightly builds.
 - I am the developer of the [GoodKitty Bot]("https://github.com/GoodKittyBot")
 
-### Useful Information and Projects
+### Projects I like and use
 
-I use and self host <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a> to generate the stats on my readme.
-I love the [CliWrap](https://github.com/Tyrrrz/CliWrap) project by @Tyrrrz
+I use and self host <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a> to generate the stats on my readme.<br>
+I love the [CliWrap](https://github.com/Tyrrrz/CliWrap) project by [Tyrrrz](https://github.com/Tyrrrz). :heart: <br>
 
 For a more complete list of projects I think are mention worthy, check out what I have <a href="https://github.com/CraigCraig?tab=stars">starred</a>.
 
