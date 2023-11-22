@@ -45,19 +45,15 @@ I'm a self-taught programmer, and I'm always looking for new ways to improve my 
 <img src="https://craigcraig.vercel.app/api/top-langs/?username=CraigCraig&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent&langs_count=8&custom_title=Project%20Languages&hide_border=true&exclude=github-readme-stats&cache_seconds=300" />
 
 <h2>My Projects</h2>
-<a href="https://github.com/CraigCraig/WinToolbox">
-<img src="https://craigcraig.vercel.app/api/pin/?username=CraigCraig&repo=WinToolbox&theme=transparent"></img>
+<a href="https://github.com/CraigCraig/CheetahToolbox">
+<img src="https://craigcraig.vercel.app/api/pin/?username=CraigCraig&repo=CheetahToolbox&theme=transparent"></img>
 </a>
-<a href="https://github.com/CraigCraig/CheeseyUI">
-<img src="https://craigcraig.vercel.app/api/pin?username=CraigCraig&repo=CheeseyUI&theme=transparent"></img>
+<a href="https://github.com/CraigCraig/CheetahApp">
+<img src="https://craigcraig.vercel.app/api/pin?username=CraigCraig&repo=CheetahApp&theme=transparent"></img>
 </a>
-<a href="https://github.com/CraigCraig/CheeseyUtils">
-<img src="https://craigcraig.vercel.app/api/pin/?username=CraigCraig&repo=CheeseyUtils&theme=transparent"></img>
-</a>
-<a href="https://github.com/CraigCraig/RiseToRuinsModLoader">
-<img src="https://craigcraig.vercel.app/api/pin/?username=CraigCraig&repo=RiseToRuinsModLoader&theme=transparent"></img>
+<a href="https://github.com/CraigCraig/CheetahUtils">
+<img src="https://craigcraig.vercel.app/api/pin/?username=CraigCraig&repo=CheetahUtils&theme=transparent"></img>
 </a><br>
-
 </div>
 
 ### General Information
@@ -73,10 +69,12 @@ I use my own GitHub Actions, Workflows, and Runners to automate a lot of my proj
 - I'll drink cold coffee.
 - I know not to run `rm -rf /` as root.
 - I tend to use insider/nightly builds.
+- I am the developer of the [GoodKitty Bot]("https://github.com/GoodKittyBot")
 
-### Useful Information and Projects
+### Projects I like and use
 
-I use and self host <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a> to generate the stats on my readme.
+I use and self host <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a> to generate the stats on my readme.<br>
+I love the [CliWrap](https://github.com/Tyrrrz/CliWrap) project by [Tyrrrz](https://github.com/Tyrrrz). :heart: <br>
 
 For a more complete list of projects I think are mention worthy, check out what I have <a href="https://github.com/CraigCraig?tab=stars">starred</a>.
 
