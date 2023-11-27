@@ -51,9 +51,6 @@ I'm a self-taught programmer, and I'm always looking for new ways to improve my 
 <a href="https://github.com/CraigCraig/CheetahTerminal">
 <img src="https://craigcraig.vercel.app/api/pin/?username=CraigCraig&repo=CheetahTerminal&theme=transparent"></img>
 </a>
-<a href="https://github.com/CraigCraig/CheetahApp">
-<img src="https://craigcraig.vercel.app/api/pin?username=CraigCraig&repo=CheetahApp&theme=transparent"></img>
-</a>
 <a href="https://github.com/CraigCraig/CheetahUtils">
 <img src="https://craigcraig.vercel.app/api/pin/?username=CraigCraig&repo=CheetahUtils&theme=transparent"></img>
 </a><br>
