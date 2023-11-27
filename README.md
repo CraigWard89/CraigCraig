@@ -45,9 +45,6 @@ I'm a self-taught programmer, and I'm always looking for new ways to improve my 
 <img src="https://craigcraig.vercel.app/api/top-langs/?username=CraigCraig&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent&langs_count=8&custom_title=Project%20Languages&hide_border=true&exclude=github-readme-stats&cache_seconds=300" />
 
 <h2>My Projects</h2>
-<a href="https://github.com/CraigCraig/CheetahToolbox">
-<img src="https://craigcraig.vercel.app/api/pin/?username=CraigCraig&repo=CheetahToolbox&theme=transparent"></img>
-</a>
 <a href="https://github.com/CraigCraig/CheetahTerminal">
 <img src="https://craigcraig.vercel.app/api/pin/?username=CraigCraig&repo=CheetahTerminal&theme=transparent"></img>
 </a>
