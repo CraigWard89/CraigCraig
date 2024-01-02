@@ -44,14 +44,11 @@ I'm a self-taught programmer, and I'm always looking for new ways to improve my 
 <img src="https://craigcraig.vercel.app/api?username=CraigCraig&theme=transparent&show_icons=true&include_all_commits=true&custom_title=My%20Stats&border=false&disable_animations=true&hide_border=true&cache_seconds=300" />
 <img src="https://craigcraig.vercel.app/api/top-langs/?username=CraigCraig&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent&langs_count=8&custom_title=Project%20Languages&hide_border=true&exclude=github-readme-stats&cache_seconds=300" />
 
-<h2>My Projects</h2>
-<a href="https://github.com/CraigCraig/CheetahTerminal">
-<img src="https://craigcraig.vercel.app/api/pin/?username=CraigCraig&repo=CheetahTerminal&theme=transparent"></img>
+<h2>My SuperSolution</h2>
+This is the main project to all of my open source projects.<br>
+<a href="https://github.com/CraigCraig/SuperSolution">
+<img src="https://craigcraig.vercel.app/api/pin/?username=CraigCraig&repo=SuperSolution&theme=transparent"></img>
 </a>
-<a href="https://github.com/CraigCraig/CheetahUtils">
-<img src="https://craigcraig.vercel.app/api/pin/?username=CraigCraig&repo=CheetahUtils&theme=transparent"></img>
-</a><br>
-</div>
 
 ### General Information
 <p>
