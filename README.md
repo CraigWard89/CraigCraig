@@ -11,8 +11,6 @@
 ![Email](https://img.shields.io/badge/Email-2571ff?style=flat&logo=gmail&logoColor=white&color=red)
 </a>
 
-<h2>CEO & Founder at <a href="https://wanderingcheetah.com">Wandering Cheetah</a></h2>
-
 <p>
 I'm constantly exploring new aspects of programming and pushing my limits by creating a diverse range of projects.<br>
 From simple scripts to complex system operations, I'm always up for a challenge.<br>
