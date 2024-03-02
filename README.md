@@ -1,6 +1,5 @@
 <div align="center">
 
-![Header](https://raw.githubusercontent.com/CraigCraig/CraigCraig/main/github-header-image.png)
 ![Profile Views](https://komarev.com/ghpvc/?username=CraigCraig&color=2571ff&style=flat-square&label=Profile%20Views)
 <a href="https://www.paypal.me/craigcraig89">
 ![PayPal](https://img.shields.io/badge/PayPal-2571ff?style=flat&logo=paypal&logoColor=white&color=orange)
