@@ -38,16 +38,7 @@ I'm a self-taught programmer, and I'm always looking for new ways to improve my 
 <img src="https://img.shields.io/badge/Markdown-informational?style=flat&logo=markdown&logoColor=white&color=2571ff" alt="Markdown badge">
 <img src="https://img.shields.io/badge/JSON-informational?style=flat&logo=json&logoColor=white&color=2571ff" alt="JSON badge">
 
-<img src="https://craigcraig.vercel.app/api?username=CraigCraig&theme=transparent&show_icons=true&include_all_commits=true&custom_title=My%20Stats&border=false&disable_animations=true&hide_border=true&cache_seconds=300" />
-<img src="https://craigcraig.vercel.app/api/top-langs/?username=CraigCraig&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent&langs_count=8&custom_title=Project%20Languages&hide_border=true&exclude=github-readme-stats&cache_seconds=300" />
-
-### General Information
-<p>
-I casually focus on my open source projects, as I also have closed source projects that I work on.<br>
-I'm considering starting a few more open source projects.<br>
-I spend a good amount of time working on my VPS, as I self host a lot of services.<br>
-I use my own GitHub Actions, Workflows, and Runners to automate a lot of my projects.<br>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=CraigCraig&theme=transparent&show_icons=true&include_all_commits=true&custom_title=My%20Stats&border=false&disable_animations=true&hide_border=true&cache_seconds=300" />
 
 ### Random Facts
 - I liked Penguins before I knew about Linux.
