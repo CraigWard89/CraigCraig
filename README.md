@@ -52,6 +52,6 @@ I'm a self-taught programmer, and I'm always looking for new ways to improve my 
 I use and self host <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a> to generate the stats on my readme.<br>
 I love the [CliWrap](https://github.com/Tyrrrz/CliWrap) project by [Tyrrrz](https://github.com/Tyrrrz). :heart: <br>
 
-For a more complete list of projects I think are mention worthy, check out what I have <a href="https://github.com/CraigCraig?tab=stars">starred</a>.
+For a more complete list of projects I think are mention worthy, check out my <a href="https://github.com/CraigCraig?tab=stars">:star:</a>'d projects.
 
 </div>
